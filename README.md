@@ -1,6 +1,6 @@
 # Hi, I'm Hayat Hussien
 
-A passionate full-stack web developer from Ethiopia.
+   A passionate full-stack web developer from Ethiopia.
 
 ## 🌐 Portfolio
 
