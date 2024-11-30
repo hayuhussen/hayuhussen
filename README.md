@@ -24,60 +24,6 @@ Development Tools: Git, GitHub, Visual Studio Code, Figma
 
 Familiar With: UI/UX Design, API Integration, Responsive Web Design, Debugging
 
-💻 Projects
-
-Bookstore Management System
-
-A feature-rich application designed to enhance bookstore operations by managing inventory, sales, and customer relationships efficiently.
-
-Technologies: Django, SQLite, HTML, CSS, JavaScript, Bootstrap 5
-
-Features:
-
-Responsive UI built with Django and Bootstrap
-
-Inventory tracking and sales management with SQLite
-
-Customer management with purchase history and interaction records
-
-Supplier and stock management with automated low-stock alerts
-
-Digital payment proof uploads for online purchases
-
-ACT Telebir App
-
-A mobile app for student fee payments at ACT American College, built for ease of use in managing payments and tracking financial activities.
-
-Technologies: HTML, Bootstrap, PHP, JavaScript
-
-Features:
-
-
-Secure data handling and user-friendly fee payment interface
-
-Real-time payment processing and receipt generation
-
-User authentication for secure access to accounts and payment history
-
-Mini Projects
-
-
-American College of Technology Website
-
-Developed a website with a user-friendly interface to highlight programs and resources, with API-based content updates for dynamic interaction.
-
-COVID-19 API
-
-Built a website to display real-time COVID-19 data with an accessible, user-friendly interface and seamless data updates via HTTP requests.
-
-
-🎓 Education
-
-
-Bachelor of Computer Science
-
-American College of Technology (2021-2024)
-
 💬 Ask Me About
 
 Django, React, best practices in full stack development, API integration, and debugging techniques.
