@@ -16,7 +16,8 @@ A passionate full-stack web developer from Ethiopia.
 
 ## 🌐 Connect with me:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/hayat-hussien/)
-Email: [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />](mailto:hayuya617@gmail.com)
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />](mailto:hayuya617@gmail.com)
 
 ## 🛠️ Languages and Tools:
 
