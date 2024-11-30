@@ -1,31 +1,52 @@
-Hi 👋, I'm Hayat Hussen
+# Hi 👋, I'm Hayat Hussien
 
-Full Stack Developer | Computer Science graduate from ACT American College, Ethiopia
+A passionate full-stack web developer from Ethiopia.
 
-📞 +251-910-409-993 | 📧 hayuya617@gmail.com
+## 🌐 Portfolio
 
-🌐 LinkedIn | GitHub
+👨‍💻 All of my projects are available at [hayathussien.mopdportal.com](https://hayathussien.mopdportal.com/)
 
-🚀 About Me
+## 💬 Ask Me About
 
-I'm a passionate Full Stack Developer with a strong backend focus, particularly in Django and Python. My experience combines backend expertise with frontend skills in HTML, Bootstrap, and responsive web design, driving me to build efficient, user-friendly solutions. I’m eager to contribute to impactful projects within innovative development teams.
+- Python
+- Django
+- React
+- JavaScript
 
-🛠 Skills
+## 📫 How to Reach Me
 
-Languages: Python, JavaScript
+- Email: [hayathussien@gmail.com](mailto:hayathussien@gmail.com)
+- LinkedIn: [hayat-hussien-0b8b0122b](https://github.com/hayat-hussien-0b8b0122b)
 
-Backend Frameworks: Django, Django Rest Framework
+## 📄 Know About My Experiences
 
-Frontend: React.js, HTML, CSS, Bootstrap
+You can find my professional experiences at [hayathussien.mopdportal.com](https://hayathussien.mopdportal.com/).
 
-Databases: MySQL, SQLite
+## 🛠️ Languages and Tools:
 
-Development Tools: Git, GitHub, Visual Studio Code, Figma
+![Languages and Tools](https://img.shields.io/badge/Bootstrap-<color>?style=flat-square&logo=bootstrap&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/C%2B%2B-<color>?style=flat-square&logo=cplusplus&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/CSS3-<color>?style=flat-square&logo=css3&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/Django-<color>?style=flat-square&logo=django&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/Git-<color>?style=flat-square&logo=git&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/HTML5-<color>?style=flat-square&logo=html5&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/Java-<color>?style=flat-square&logo=java&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/JavaScript-<color>?style=flat-square&logo=javascript&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/Linux-<color>?style=flat-square&logo=linux&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/MSSQL-<color>?style=flat-square&logo=microsoftsqlserver&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/MySQL-<color>?style=flat-square&logo=mysql&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/Oracle-<color>?style=flat-square&logo=oracle&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/PostgreSQL-<color>?style=flat-square&logo=postgresql&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/Python-<color>?style=flat-square&logo=python&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/React-<color>?style=flat-square&logo=react&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/SQLite-<color>?style=flat-square&logo=sqlite&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/Tailwind-<color>?style=flat-square&logo=tailwindcss&logoColor=white) 
+![Languages and Tools](https://img.shields.io/badge/TypeScript-<color>?style=flat-square&logo=typescript&logoColor=white)
 
-Familiar With: UI/UX Design, API Integration, Responsive Web Design, Debugging
+## 🏆 Achievements
 
-💬 Ask Me About
+![Trophy](https://github.com/hayat-hussien-0b8b0122b)
 
-Django, React, best practices in full stack development, API integration, and debugging techniques.
+---
 
-🌐 Connect with Me
+Feel free to customize any colors or details as needed!
